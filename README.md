@@ -24,21 +24,31 @@ The project uses three CSV files:
 ---
 
 ## 🎯 Business Questions Answered
+The analysis aimed to answer 10 critical business questions:
 
-- What is total revenue and average customer spend?
-- Which occasions and products generate the most revenue?
-- What are the top-performing cities?
-- Are there seasonal trends in orders and delivery times?
+1. Total Revenue: What is the overall revenue generated?
+2. Average Order and Delivery Time: How long do orders take from placement to delivery?
+3. Monthly Sales Performance: Are there any seasonal trends?
+4. Top Products by Revenue: Which products are the top performers?
+5. Customer Spending Analysis: How much do customers spend on average?
+6. Top 5 Products Sales Performance: What are the best-performing products?
+7. Top 10 Cities by Orders: Which locations have the highest number of orders?
+8. Order Quantity vs Delivery Time: Does quantity affect delivery?
+9. Revenue by Occasion: Which occasions generate the most revenue?
+10. Product Popularity by Occasion: Which products are most ordered for each occasion?
 
 ---
 
 ## 📊 Key Insights
-
-- **Total Revenue**: ₹35,20,984  
-- **Avg. Delivery Time**: 5.53 days  
-- **Top Cities**: Imphal, Kavali, Dhanbad  
-- **Top Products**: Magnum Set, Qula Gift  
-- **Sales Peak**: February & August  
+1. Total Revenue: ₹35,20,984.00;
+2. Avg. Order-Delivery Time: 5.53 days;
+3. Monthly Sales Trend: Peaks in Feb, Aug, Nov;
+4. Top Products by Revenue: Magnam Set, Quia Gift, Dolores Gift, Harum Pack, Deserunt Box;
+5. Avg. Customer Spend: ₹3,520.98;
+6. Best-Selling Products: Same top 5 as above;
+7. Top Cities by Orders: Imphal, Kavali, Haridwar, Dibrugarh, Guniael;
+9. Top Revenue Occasions: Anniversary, Raksha Bandhan, Holi, Valentine’s Day;
+10. Product Popularity by Occasion: Not shown, suggest adding matrix or stacked chart.
 
 ---
 
