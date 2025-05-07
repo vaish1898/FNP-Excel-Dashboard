@@ -8,7 +8,7 @@ Ferns N Petals (FNP), a popular gift delivery platform, specializes in deliverin
 ## 📂 Dataset Description
 
 The project uses three CSV files:
-- `orders.csv`: Order ID, Customer ID, Product ID, Dates, Quantity
+- `orders.csv`: Order_ID, Customer_ID, Product_ID, Quantity, Order_Date	Order_Time, Delivery_Date, Delivery_Time, Location, Occasion
 - `products.csv`: Product details like Name, Category, Price, Occasion
 - `customers.csv`: Customer Name and City
 
