@@ -66,4 +66,4 @@ This Excel-based dashboard offers a strategic overview of FNP’s sales and oper
 ---
 
 📸 _Dashboard preview and file available in this repository._  
-📬 **Connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-raut)**  
+📬 **Connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnavi-raut18/)**  
